@@ -15,3 +15,6 @@ Machine Learning Project 2 - Heart Disease Prediction - Part 1
 
 Machine Learning Project 2 - Heart Disease Prediction - Part 2
 <br>https://www.youtube.com/watch?v=ImzBncpCPns
+
+Machine Learning Project 3 - Predict Term Deposit Subscriptions
+<br>https://www.youtube.com/watch?v=LanIDRcm5x8
